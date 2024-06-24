@@ -3,7 +3,7 @@ import {food} from "@/app/Page"
 import Image from "next/image"
 import {GiChefToque} from 'react-icons/gi'
 import {SlCalender} from 'react-icons/sl'
-import {IoNutrition} from 'react-icons/io'
+import {IoNutrition} from 'react-icons/io5'
 import styles from '.././../styles/recipe.module.css'
 
 export default function page({params}) {
