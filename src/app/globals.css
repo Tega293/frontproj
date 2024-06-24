@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+
+
+.embla__slide img{
+    width: 70%;
+    height: 500px;
+    border-radius: 4%;
+   margin-left: 170px;
+   margin-top: 20px;
+   border-bottom: 8px solid gray;
+   border-left: 8px solid gray;
+   
+}
+
+#main{
+  background-image: url('/bg-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
