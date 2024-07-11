@@ -1242,7 +1242,7 @@ export const recipe = [
           <h2 className='pb-11'>
             <main className='flex flex-row'>
           <AiOutlineStar className=' after:bg-red-700'/> <AiOutlineStar/> <AiOutlineStar/> <AiOutlineStar/> <AiOutlineStar/></main>
-            {food.name }
+            {food.name}
           </h2> 
           {/* <Icon /> */}
       </Link>
