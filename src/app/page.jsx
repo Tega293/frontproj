@@ -1234,7 +1234,7 @@ export const recipe = [
     }
     const foodClass =foodfiltered.map(food => (
       <section key={Math.random()} className={styles.setFuction}>
-        <Link href={`/product/${food.id}`}>
+        <Link href={`/product/${food.name.split(' ').join('')}`}>
           
 
           <Image src={food.image} alt={food.name} id='image' width={450} height={300} className={`${styles.image}`}/>

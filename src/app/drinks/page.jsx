@@ -15,7 +15,7 @@ export const drinks = [
 {
   id: 1,
     name: "Piña Colada",
-    image: "https://example.com/pina_colada.jpg",
+    image: "/pina.colada.jpg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "Vitamin C",
@@ -27,7 +27,7 @@ export const drinks = [
   {
     id: 2,
     name: "Sangria",
-    image: "https://example.com/sangria.jpg",
+    image: "/sangria.jpeg",
     season: "Summer",
     drinkClass: "Wine Cocktail",
     nutrientProduced: "Antioxidants",
@@ -39,7 +39,7 @@ export const drinks = [
   {
     id: 3,
     name: "Matcha Tea",
-    image: "https://example.com/matcha_tea.jpg",
+    image: "/matcha.tea.webp",
     season: "All seasons",
     drinkClass: "Tea",
     nutrientProduced: "Antioxidants",
@@ -51,7 +51,7 @@ export const drinks = [
   {
     id: 4,
     name: "Caipirinha",
-    image: "https://example.com/caipirinha.jpg",
+    image: "/caipirinha.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "Vitamin C",
@@ -63,7 +63,7 @@ export const drinks = [
   {
     id: 5,
     name: "Irish Coffee",
-    image: "https://example.com/irish_coffee.jpg",
+    image: "/irish.cofee.avif",
     season: "Winter",
     drinkClass: "Hot Beverage",
     nutrientProduced: "Caffeine",
@@ -75,7 +75,7 @@ export const drinks = [
   {
     id: 6,
     name: "Bubble Tea",
-    image: "https://example.com/bubble_tea.jpg",
+    image: "/bubble.tea.jpg",
     season: "All seasons",
     drinkClass: "Tea",
     nutrientProduced: "Carbohydrates",
@@ -87,7 +87,7 @@ export const drinks = [
   {
     id: 7,
     name: "Mojito",
-    image: "https://example.com/mojito.jpg",
+    image: "/mojito.jpg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "Vitamin C",
@@ -99,7 +99,7 @@ export const drinks = [
   {
     id: 8,
     name: "Lassi",
-    image: "https://example.com/lassi.jpg",
+    image: "/lassi.jpeg",
     season: "Summer",
     drinkClass: "Yogurt Drink",
     nutrientProduced: "Protein",
@@ -111,7 +111,7 @@ export const drinks = [
   {
     id: 9,
     name: "Eggnog",
-    image: "https://example.com/eggnog.jpg",
+    image: "/egnog.jpeg",
     season: "Winter",
     drinkClass: "Holiday Beverage",
     nutrientProduced: "Protein",
@@ -123,7 +123,7 @@ export const drinks = [
   {
     id: 10,
     name: "Lemonade",
-    image: "https://example.com/lemonade.jpg",
+    image: "/lemonade.jpeg",
     season: "Summer",
     drinkClass: "Non-Alcoholic Beverage",
     nutrientProduced: "Vitamin C",
@@ -135,7 +135,7 @@ export const drinks = [
   {
     id: 11,
     name: "Hot Chocolate",
-    image: "https://example.com/hot_chocolate.jpg",
+    image: "/hot.chocolate.jpeg",
     season: "Winter",
     drinkClass: "Hot Beverage",
     nutrientProduced: "Antioxidants",
@@ -147,7 +147,7 @@ export const drinks = [
   {
     id: 12,
     name: "Café de Olla",
-    image: "https://example.com/cafe_de_olla.jpg",
+    image: "/cafedeolla.jpeg",
     season: "Winter",
     drinkClass: "Hot Beverage",
     nutrientProduced: "Caffeine",
@@ -159,7 +159,7 @@ export const drinks = [
   {
     id: 13,
     name: "Mai Tai",
-    image: "https://example.com/mai_tai.jpg",
+    image: "/maitai.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "None",
@@ -171,7 +171,7 @@ export const drinks = [
   {
     id: 14,
     name: "Turkish Coffee",
-    image: "https://example.com/turkish_coffee.jpg",
+    image: "/turkishcofee.jpeg",
     season: "All seasons",
     drinkClass: "Coffee",
     nutrientProduced: "Caffeine",
@@ -183,7 +183,7 @@ export const drinks = [
   {
     id: 15,
     name: "Margarita",
-    image: "https://example.com/margarita.jpg",
+    image: "/magarita.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "None",
@@ -195,7 +195,7 @@ export const drinks = [
   {
     id: 16,
     name: "Chai Latte",
-    image: "https://example.com/chai_latte.jpg",
+    image: "/chailatte.jpeg",
     season: "Winter",
     drinkClass: "Tea",
     nutrientProduced: "Antioxidants",
@@ -207,7 +207,7 @@ export const drinks = [
   {
     id: 17,
     name: "Thai Iced Tea",
-    image: "https://example.com/thai_iced_tea.jpg",
+    image: "/thaiicedtea.jpeg",
     season: "Summer",
     drinkClass: "Tea",
     nutrientProduced: "Caffeine",
@@ -219,7 +219,7 @@ export const drinks = [
   {
     id: 18,
     name: "Negroni",
-    image: "https://example.com/negroni.jpg",
+    image: "/negroni.jpeg",
     season: "All seasons",
     drinkClass: "Cocktail",
     nutrientProduced: "None",
@@ -231,7 +231,7 @@ export const drinks = [
   {
     id: 19,
     name: "Kombucha",
-    image: "https://example.com/kombucha.jpg",
+    image: "/kombucha.webp",
     season: "All seasons",
     drinkClass: "Fermented Tea",
     nutrientProduced: "Probiotics",
@@ -243,7 +243,7 @@ export const drinks = [
   {
     id: 20,
     name: "Espresso Martini",
-    image: "https://example.com/espresso_martini.jpg",
+    image: "/espressomartin.jpeg",
     season: "All seasons",
     drinkClass: "Cocktail",
     nutrientProduced: "Caffeine",
@@ -255,7 +255,7 @@ export const drinks = [
   {
     id: 21,
     name: "Mint Julep",
-    image: "https://example.com/mint_julep.jpg",
+    image: "/mintjulep.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "None",
@@ -267,7 +267,7 @@ export const drinks = [
   {
     id: 22,
     name: "Falooda",
-    image: "https://example.com/falooda.jpg",
+    image: "/falooda.jpeg",
     season: "Summer",
     drinkClass: "Dessert Beverage",
     nutrientProduced: "Carbohydrates",
@@ -279,7 +279,7 @@ export const drinks = [
   {
     id: 23,
     name: "Bellini",
-    image: "https://example.com/bellini.jpg",
+    image: "/bellini.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "Vitamin C",
@@ -291,7 +291,7 @@ export const drinks = [
   {
     id: 24,
     name: "Cider",
-    image: "https://example.com/cider.jpg",
+    image: "/cider.jpeg",
     season: "Fall",
     drinkClass: "Alcoholic Beverage",
     nutrientProduced: "Antioxidants",
@@ -303,7 +303,7 @@ export const drinks = [
   {
     id: 25,
     name: "Frappe",
-    image: "https://example.com/frappe.jpg",
+    image: "/frappe.jpeg",
     season: "Summer",
     drinkClass: "Coffee",
     nutrientProduced: "Caffeine",
@@ -315,7 +315,7 @@ export const drinks = [
   {
     id: 26,
     name: "Tom Collins",
-    image: "https://example.com/tom_collins.jpg",
+    image: "/tomcollins.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "None",
@@ -327,7 +327,7 @@ export const drinks = [
   {
     id: 27,
     name: "Horchata",
-    image: "https://example.com/horchata.jpg",
+    image: "/horchata.jpeg",
     season: "Summer",
     drinkClass: "Non-Alcoholic Beverage",
     nutrientProduced: "Calcium",
@@ -339,7 +339,7 @@ export const drinks = [
   {
     id: 28,
     name: "Pisco Sour",
-    image: "https://example.com/pisco_sour.jpg",
+    image: "/piscosour.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "None",
@@ -351,7 +351,7 @@ export const drinks = [
   {
     id: 29,
     name: "Aperol Spritz",
-    image: "https://example.com/aperol_spritz.jpg",
+    image: "/spritz.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "None",
@@ -363,7 +363,7 @@ export const drinks = [
   {
     id: 30,
     name: "Cuba Libre",
-    image: "https://example.com/cuba_libre.jpg",
+    image: "/libre.jpeg",
     season: "Summer",
     drinkClass: "Cocktail",
     nutrientProduced: "Vitamin C",
@@ -375,7 +375,7 @@ export const drinks = [
 ]
 
 export default function Drinks(){
-  const [searchRecipe, setSearchDrinks] = useState('')
+  const [searchDrinks, setSearchDrinks] = useState('')
 
   // const springFood = recipe.filter(recipe => recipe.season === 'Spring')
   
@@ -384,9 +384,9 @@ export default function Drinks(){
   function temi(e){
     setSearchDrinks(e.target.value)
   }
-  const drinkClass =drinkfiltered.map(drinks => (
+  const drinkClass = drinksfiltered.map(drinks => (
     <section key={Math.random()} className={styles.setFuction}>
-      <Link href={`/product/${drinks.id}`}>
+      <Link href={`/prod/${drinks.name.split(' ').join('')}`}>
         
 
         <Image src={drinks.image} alt={drinks.name} id='image' width={450} height={300} className={`${styles.image}`}/>
@@ -394,7 +394,7 @@ export default function Drinks(){
         <h2 className='pb-11'>
           <main className='flex flex-row'>
         <AiOutlineStar className=' after:bg-red-700'/> <AiOutlineStar/> <AiOutlineStar/> <AiOutlineStar/> <AiOutlineStar/></main>
-          {food.name}
+          {drinks.name}
         </h2> 
         {/* <Icon /> */}
     </Link>
@@ -407,19 +407,19 @@ return (
   <div className='flex items-center justify-center my-5 '>
   <input type="text" name="" id="" placeholder={`search for food `}
   className='w-[40%]  text-black  py-2 border-2 border-solid border-b-red-500  rounded-xl '
-  value={searchRecipe} 
+  value={searchDrinks} 
   onChange={temi}/>
 
   </div>
   <main>
       <h1 className={`text-white  border-b-white  text-lg ${styles.h1}`}>
-          Recent Drinks Recipe 
+          <div> Drinks Recipe</div> 
         </h1>
   </main>
 
   <div className={styles.main}>
 
-      {foodClass}
+      {drinkClass}
   </div>
   </>
 )
